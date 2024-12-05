@@ -193,7 +193,7 @@
             <mxPoint x="680" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtRu-Xx0qi0sf3VICsNN-14" value="CHU TRÌNH SEGMENT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PtRu-Xx0qi0sf3VICsNN-14" value="&amp;nbsp;Chia thành segment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="270" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtRu-Xx0qi0sf3VICsNN-16" value="tạo frame" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -262,7 +262,7 @@
         <mxCell id="PtRu-Xx0qi0sf3VICsNN-36" value="host 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PtRu-Xx0qi0sf3VICsNN-37" value="PORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PtRu-Xx0qi0sf3VICsNN-37" value="TCP/UDP PORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtRu-Xx0qi0sf3VICsNN-39" value="IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -289,7 +289,7 @@
             <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtRu-Xx0qi0sf3VICsNN-46" value="Protocol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PtRu-Xx0qi0sf3VICsNN-46" value="Protocols" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
