@@ -37,10 +37,10 @@
         <mxCell id="HHL6URZeFr0VbkjdM9OA-20" value="transport (PORT)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHL6URZeFr0VbkjdM9OA-21" value="network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HHL6URZeFr0VbkjdM9OA-21" value="network (IP)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHL6URZeFr0VbkjdM9OA-22" value="datalink" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HHL6URZeFr0VbkjdM9OA-22" value="datalink (MAC)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHL6URZeFr0VbkjdM9OA-23" value="physical" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="HHL6URZeFr0VbkjdM9OA-53" value="NH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="380" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHL6URZeFr0VbkjdM9OA-54" value="NH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HHL6URZeFr0VbkjdM9OA-54" value="DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="380" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHL6URZeFr0VbkjdM9OA-55" value="packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
